@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0OWtiY2Mwd25ndmd1cHVmOWE5M211cjZmNW5scGtjcGZqYXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqaYIfwhvzsi6vwBxO/giphy.gif" height="60" alt="design gif"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0OWtiY2Mwd25ndmd1cHVmOWE5M211cjZmNW5scGtjcGZqYXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqaYIfwhvzsi6vwBxO/giphy.gif" height="70" alt="design gif"/>
     </td>
     <td valign="middle">
       Graphic Designer.
@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwzaWh5ZDJlM3pwcHNlM2E3ZGd1cWNweGlscGM2bnN2dGR2YnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" height="60" alt="brain gif"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwzaWh5ZDJlM3pwcHNlM2E3ZGd1cWNweGlscGM2bnN2dGR2YnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" height="70" alt="computer gif"/>
     </td>
     <td valign="middle">
       Computer Science Student.
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk2MWRjMmJqbjBmeG1ubXl2MWV2d2xydWhvdGs2OTFzODJoZWhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/46YqF2QoNcEmgSf6gT/giphy.gif" height="40" alt="money gif"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk2MWRjMmJqbjBmeG1ubXl2MWV2d2xydWhvdGs2OTFzODJoZWhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/46YqF2QoNcEmgSf6gT/giphy.gif" height="50" alt="money gif"/>
     </td>
     <td valign="middle">
       Open to job offers.
