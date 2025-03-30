@@ -14,7 +14,13 @@
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam81MWUyMjVtMTVpcWJwbmdydDA4OHZvbGkxdjk5ZGdpanp2dG1hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J5dm29T4xgwyEnUYYc/giphy.gif" height="60" alt="click gif"/>
     </td>
     <td valign="middle">
-      FrontEnd Developer.
+      Junior FrontEnd Developer.
+    </td>
+    <td align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwzaWh5ZDJlM3pwcHNlM2E3ZGd1cWNweGlscGM2bnN2dGR2YnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" height="70" alt="computer gif"/>
+    </td>
+    <td valign="middle">
+      Computer Science Student at <br> Central University of Venezuela.
     </td>
   </tr>
   <tr>
@@ -24,16 +30,6 @@
     <td valign="middle">
       Graphic Designer.
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwzaWh5ZDJlM3pwcHNlM2E3ZGd1cWNweGlscGM2bnN2dGR2YnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" height="70" alt="computer gif"/>
-    </td>
-    <td valign="middle">
-      Computer Science Student.
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk2MWRjMmJqbjBmeG1ubXl2MWV2d2xydWhvdGs2OTFzODJoZWhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/46YqF2QoNcEmgSf6gT/giphy.gif" height="50" alt="money gif"/>
     </td>
