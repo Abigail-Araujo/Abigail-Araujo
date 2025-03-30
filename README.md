@@ -7,6 +7,43 @@
 </div>
 
 ###
+<h2 align="center">About me</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam81MWUyMjVtMTVpcWJwbmdydDA4OHZvbGkxdjk5ZGdpanp2dG1hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J5dm29T4xgwyEnUYYc/giphy.gif" height="60" alt="click gif"/>
+    </td>
+    <td valign="middle">
+      FrontEnd Developer.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0OWtiY2Mwd25ndmd1cHVmOWE5M211cjZmNW5scGtjcGZqYXVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqaYIfwhvzsi6vwBxO/giphy.gif" height="60" alt="design gif"/>
+    </td>
+    <td valign="middle">
+      Graphic Designer.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwzaWh5ZDJlM3pwcHNlM2E3ZGd1cWNweGlscGM2bnN2dGR2YnI2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" height="60" alt="brain gif"/>
+    </td>
+    <td valign="middle">
+      Computer Science Student.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk2MWRjMmJqbjBmeG1ubXl2MWV2d2xydWhvdGs2OTFzODJoZWhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/46YqF2QoNcEmgSf6gT/giphy.gif" height="40" alt="money gif"/>
+    </td>
+    <td valign="middle">
+      Open to job offers.
+    </td>
+  </tr>
+</table>
+
+###
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -50,16 +87,6 @@
   <a href="mailto:abiaraujo2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h3 align="center">Visitors</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abigail-araujo/count.svg?"  />
 </div>
 
 ###
